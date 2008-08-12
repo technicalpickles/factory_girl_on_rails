@@ -1,0 +1,24 @@
+factory_girl_on_rails
+=====================
+
+factory_girl_on_rails provides some minor creature comforts for using factory_girl on a Rails project:
+
+ * Automatically load factories in RAILS_ROOT/test/factories
+ * Coming soon: A generator for putting new factories in RAILS_ROOT/test/factories
+
+
+Installing
+==========
+
+script/plugin install .....
+
+Example
+=======
+
+Coming soon...
+
+
+Copyright
+=========
+
+Copyright (c) 2008 Josh Nichols, released under the MIT license
