@@ -10,7 +10,7 @@ factory_girl_on_rails provides some minor creature comforts for using factory_gi
 Installing
 ==========
 
-    script/plugin install git@github.com:technicalpickles/factory_girl_on_rails.git
+    script/plugin install git://github.com:technicalpickles/factory_girl_on_rails.git
 
 Example
 =======
