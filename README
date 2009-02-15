@@ -1,6 +1,8 @@
 factory_girl_on_rails
 =====================
 
+THIS PLUGIN IS DEPRECATED AS OF FEBURARY 15, 2009: factory_girl now automatically loads factories, and it's trivial to create factory definitions by hand, so there's no need for this plugin.
+
 factory_girl_on_rails provides some minor creature comforts for using factory_girl on a Rails project:
 
  * Automatically load factories in RAILS_ROOT/test/factories
